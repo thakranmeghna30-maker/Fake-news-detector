@@ -2,6 +2,10 @@
 
 A machine learning project that classifies news articles as **Fake** or **Real** using Natural Language Processing (NLP).
 
+# Live Demo
+
+Try the application here:https://fake-news-detector-ok.streamlit.app/
+
 ## Project Overview
 
 This project uses text preprocessing and machine learning to analyze news article text and predict whether it belongs to the Fake or Real category.
